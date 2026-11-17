@@ -1,0 +1,20 @@
+# Quartus build output
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.done
+
+# ModelSim
+work/
+transcript
+*.wlf
+modelsim.ini
+
+# macOS
+.DS_Store
